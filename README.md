@@ -1,11 +1,30 @@
 # challenge1
 
-Edits for Challenge 1 Website and Added CSS features for Accessability for Clients
+# Horiseon
+Horiseon Social Marketing Tips
 
-Added alt descriptions for images and icons
 
-Added Shading to header txt
+## Installation
 
-Added a descriptive title
+Used "Develop" index.html and css Style Sheet attached
 
-Determined sequential order on headers
+```
+```
+
+## Usage
+
+ #text-shadow: 4px -5px 6px rgb(47, 44, 44
+
+#alt="Desk with Pictures"
+
+#alt="Bargraphs on Laptops"
+
+#alt="Meeting with Desk"
+
+## Contributing
+
+To add alt and other section descriptions to help accessibility functions
+
+## License
+
+UTSA Bootcamp
