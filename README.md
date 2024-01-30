@@ -8,4 +8,4 @@ Added Shading to header txt
 
 Added a descriptive title
 
-determined sequential order on headers
+Determined sequential order on headers
