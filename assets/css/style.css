@@ -1,13 +1,14 @@
+/* sizing of outline box */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* background color change */
 body {
     background-color: #d9dcd6;
 }
-
+/* color of title spot and links background */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,17 +16,17 @@ body {
     color: #ffffff;
     text-shadow: 4px -5px 6px rgb(47, 44, 44) ;
 }
-
+/* size of font in header */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* color of font shadow */
 .header h1 .seo {
     color: #d9dcd6;
     ext-shadow: 4px -5px 6px black;
 }
-
+/* division for margins */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -76,7 +77,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* box divisions color */
 .benefits {
     margin-right: 20px;
     padding: 20px;
